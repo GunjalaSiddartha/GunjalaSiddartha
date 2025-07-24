@@ -35,10 +35,7 @@ An AI-based solution for public safety and missing person detection.
 - 🖼️ Matches uploaded images with a trained facial recognition system  
 - ⚠️ Sends instant alerts to law enforcement and families  
 - **Tech:** Python, OpenCV, TensorFlow, HTML/CSS/JavaScript, SQL
-
----
----
-
+  
 ---
 
 ## 🤝 Volunteering & Outreach

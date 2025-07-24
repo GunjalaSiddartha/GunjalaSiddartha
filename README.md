@@ -43,7 +43,7 @@ An AI-based solution for public safety and missing person detection.
 ### 🔹 Knowledge Sharing Volunteer – Maker Faire Hyderabad (by T-Works)
 **Role:** Tech Demonstrator & Explainer | **Organized by:** T-Works  
 **Event:** Maker Faire Hyderabad – Innovation & Maker Exhibition  
-**Date:** [Month, Year]
+**Date:** [Dec , 2023]
 
 - 🎯 Volunteered at the **3D Printing Technology** booth, where I explained the working, applications, and impact of 3D printing to visitors — including students, parents, and innovators.
 - 💬 Engaged in **1-on-1 interactions**, simplifying technical concepts and answering questions to help the public understand 3D printing’s role in modern product development.

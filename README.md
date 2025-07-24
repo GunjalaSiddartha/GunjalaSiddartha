@@ -39,18 +39,19 @@ An AI-based solution for public safety and missing person detection.
 ---
 ---
 
+---
+
 ## 🤝 Volunteering & Outreach
 
 ### 🔹 Knowledge Sharing Volunteer – Maker Faire Hyderabad (by T-Works)
-**Role:** Volunteer Speaker | **Organized by:** T-Works & Telangana Govt.  
-**Event:** Maker Faire Hyderabad – India’s largest celebration of innovation  
-**Date:** [Dec, 2023]
+**Role:** Tech Demonstrator & Explainer | **Organized by:** T-Works  
+**Event:** Maker Faire Hyderabad – Innovation & Maker Exhibition  
+**Date:** [Month, Year]
 
-- 🎤 Delivered a session on **3D Printing Technology**, explaining its real-world applications in industries like healthcare, manufacturing, and design.
-- 🧠 Engaged with **entrepreneurs, innovators, and students**, simplifying complex concepts and encouraging innovation through rapid prototyping.
-- 🛠️ Demonstrated hands-on use cases of 3D printing, showcasing how it accelerates **product development and prototyping**.
+- 🎯 Volunteered at the **3D Printing Technology** booth, where I explained the working, applications, and impact of 3D printing to visitors — including students, parents, and innovators.
+- 💬 Engaged in **1-on-1 interactions**, simplifying technical concepts and answering questions to help the public understand 3D printing’s role in modern product development.
+- 🔍 Demonstrated real-world use cases of 3D printing in fields like prototyping, healthcare, and manufacturing.
 - 👥 Represented **GRIET** as a student volunteer, promoting STEM education and innovation at India’s premier tech exhibition.
-
 
 ---
 
@@ -63,10 +64,16 @@ An AI-based solution for public safety and missing person detection.
   Cisco Networking Academy – Networking fundamentals, routing protocols, switching concepts, and wireless technologies.
 
 - ✅ [Android Developer Virtual Internship](https://www.linkedin.com/in/gunjalasiddartha/details/certifications/1733250946283/single-media-viewer)  
-  Built and deployed Android apps using Java/Kotlin & Firebase (by Google)
+  Google – Built and deployed Android apps using Java/Kotlin & Firebase
 
 - ✅ [AI-ML Virtual Internship](https://www.linkedin.com/in/gunjalasiddartha/details/certifications/1733251175272/single-media-viewer)  
-  Built ML models for real-world problems using AWS Academy tools and platforms
+  Amazon Web Services – Built ML models for real-world problems using AWS Academy tools and platforms
+
+- ✅ [AWS Acadamy Machine Learning Foundations](https://www.linkedin.com/in/gunjalasiddartha/details/certifications/1733293533932/single-media-viewer/?profileId=ACoAAEmNMoMBOa3BJS3wfcgfucKYHDDDqyGwZPw/single-media-viewer)  
+  Amazon Web Services – Explored real-world ML workflows including regression, classification, clustering, and model evaluation
+
+  - ✅ [AWS Acadamy Cloud Foundations](https://www.linkedin.com/in/gunjalasiddartha/details/certifications/1733293871151/single-media-viewer/?profileId=ACoAAEmNMoMBOa3BJS3wfcgfucKYHDDDqyGwZPw/single-media-viewer)  
+  Amazon Web Services – Learned cloud concepts such as EC2, S3, IAM, RDS, Lambda, cloud architecture, and foundational best practices.
 
 ---
 

@@ -37,6 +37,22 @@ An AI-based solution for public safety and missing person detection.
 - **Tech:** Python, OpenCV, TensorFlow, HTML/CSS/JavaScript, SQL
 
 ---
+---
+
+## 🤝 Volunteering & Outreach
+
+### 🔹 Knowledge Sharing Volunteer – Maker Faire Hyderabad (by T-Works)
+**Role:** Volunteer Speaker | **Organized by:** T-Works & Telangana Govt.  
+**Event:** Maker Faire Hyderabad – India’s largest celebration of innovation  
+**Date:** [Dec, 2023]
+
+- 🎤 Delivered a session on **3D Printing Technology**, explaining its real-world applications in industries like healthcare, manufacturing, and design.
+- 🧠 Engaged with **entrepreneurs, innovators, and students**, simplifying complex concepts and encouraging innovation through rapid prototyping.
+- 🛠️ Demonstrated hands-on use cases of 3D printing, showcasing how it accelerates **product development and prototyping**.
+- 👥 Represented **GRIET** as a student volunteer, promoting STEM education and innovation at India’s premier tech exhibition.
+
+
+---
 
 ## 📜 Certifications
 

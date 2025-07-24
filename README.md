@@ -7,7 +7,7 @@
 
 ## 🌟 About Me
 
-I'm a highly motivated and curious computer science undergraduate, exploring the intersection of **AI**, **web development**, and real-world problem solving. I enjoy designing impactful projects and continuously sharpening my skills through hands-on learning, internships, and open-source contributions.
+I'm a highly motivated and curious computer science undergraduate, exploring the intersection of **AI**, **ML**, **web development**, and real-world problem solving. I enjoy designing impactful projects and continuously sharpening my skills through hands-on learning, internships, and open-source contributions.
 
 ---
 
@@ -17,7 +17,7 @@ I'm a highly motivated and curious computer science undergraduate, exploring the
 - **Web Dev:** React.js, Tailwind CSS, Node.js, Firebase, Express.js  
 - **Databases:** MongoDB, MySQL  
 - **Tools & Platforms:** Git, GitHub, VS Code  
-- **Domains of Interest:** Full-Stack Development, AI/ML, Networking
+- **Domains of Interest:** Full-Stack Development, AI/ML
 
 ---
 

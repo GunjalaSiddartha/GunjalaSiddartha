@@ -69,7 +69,7 @@ An AI-based solution for public safety and missing person detection.
 - ✅ [AWS Acadamy Machine Learning Foundations](https://www.linkedin.com/in/gunjalasiddartha/details/certifications/1733293533932/single-media-viewer/?profileId=ACoAAEmNMoMBOa3BJS3wfcgfucKYHDDDqyGwZPw/single-media-viewer)  
   Amazon Web Services – Explored real-world ML workflows including regression, classification, clustering, and model evaluation
 
-  - ✅ [AWS Acadamy Cloud Foundations](https://www.linkedin.com/in/gunjalasiddartha/details/certifications/1733293871151/single-media-viewer/?profileId=ACoAAEmNMoMBOa3BJS3wfcgfucKYHDDDqyGwZPw/single-media-viewer)  
+- ✅ [AWS Acadamy Cloud Foundations](https://www.linkedin.com/in/gunjalasiddartha/details/certifications/1733293871151/single-media-viewer/?profileId=ACoAAEmNMoMBOa3BJS3wfcgfucKYHDDDqyGwZPw/single-media-viewer)  
   Amazon Web Services – Learned cloud concepts such as EC2, S3, IAM, RDS, Lambda, cloud architecture, and foundational best practices.
 
 ---
@@ -81,10 +81,6 @@ An AI-based solution for public safety and missing person detection.
 - 💻 [GitHub](https://github.com/GunjalaSiddartha)
 
 ---
-
-## ✨ Fun Fact
-
-I'm someone who learns best by doing — and I find debugging just as thrilling as building. Every bug is an opportunity to learn something new!
 
 
 

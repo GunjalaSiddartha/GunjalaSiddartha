@@ -43,6 +43,9 @@ An AI-based solution for public safety and missing person detection.
 - ✅ [CCNA: Introduction to Networks](https://www.linkedin.com/in/gunjalasiddartha/details/certifications/1740981831933/single-media-viewer)  
   Cisco Networking Academy – Networking fundamentals, IP addressing, routing
 
+- ✅ [CCNA: Switching, Routing, and Wireless Essentials](https://www.linkedin.com/in/gunjalasiddartha/details/certifications/1748631264841/single-media-viewer/?profileId=ACoAAEmNMoMBOa3BJS3wfcgfucKYHDDDqyGwZPw/single-media-viewer)  
+  Cisco Networking Academy – Networking fundamentals, routing protocols, switching concepts, and wireless technologies.
+
 - ✅ [Android Developer Virtual Internship](https://www.linkedin.com/in/gunjalasiddartha/details/certifications/1733250946283/single-media-viewer)  
   Built and deployed Android apps using Java/Kotlin & Firebase (by Google)
 

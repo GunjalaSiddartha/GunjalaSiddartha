@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Siddartha Gunjala
+<h1 align="center">Hi 👋, I'm Siddartha</h1>
 
 🎓 B.Tech in Computer Science (AI & ML) | Passionate Full-Stack Developer | Problem Solver  
 📍 Hyderabad, India | Class of 2026 | [LinkedIn](https://www.linkedin.com/in/gunjalasiddartha/) • [GitHub](https://github.com/GunjalaSiddartha)
@@ -18,6 +18,10 @@ I'm a highly motivated and curious computer science undergraduate, exploring the
 - **Databases:** MongoDB, MySQL  
 - **Tools & Platforms:** Git, GitHub, VS Code  
 - **Domains of Interest:** Full-Stack Development, AI/ML
+
+  <p>
+  <img src="https://skillicons.dev/icons?i=java,python,c,html,css,js,ts,react,nodejs,express,mongodb,firebase,vercel,tailwind,tensorflow,git" />
+</p>
 
 ---
 
@@ -74,11 +78,18 @@ An AI-based solution for public safety and missing person detection.
 
 ---
 
-## 📫 Let’s Connect
+### 📫 Contact Me
 
-- 📧 Email: siddarthagunjala@gmail.com  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/gunjalasiddartha)  
-- 💻 [GitHub](https://github.com/GunjalaSiddartha)
+<a href="mailto:gunjalasiddartha@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/gunjalasiddartha/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/GunjalaSiddartha" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white" />
+</a>
+
 
 ---
 
